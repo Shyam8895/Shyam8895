@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...Blender and unreal engine
 - 📫 How to reach me ... Can't 
 - 😄 Pronouns: ...Boy
-- ⚡ Fun fact: ...i have yet to learn the the core 😜 
+- ⚡ Fun fact: ...i have yet to learn the  basics of coding😜 
 
 <!---
 Shyam8895/Shyam8895 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
