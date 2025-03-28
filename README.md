@@ -1,19 +1,17 @@
-<img src="asset/profile photo.png" alt="Profile Photo" width="200">
-
 # 👋 Hi, I’m Shyam
 [Visit My Portfolio](https://shyam8895.github.io/portfolio/)
 
 ## About Me
-- 👀 **Interests:** Developing games, 3D modeling, and creative design.
-- 🌱 **Currently Learning:** Blender, Unreal Engine, and the basics of coding.
-- 📫 **Contact Me:** Reach out via [LinkedIn](#) or [Email](#).
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun Fact:** I’m a beginner in coding but passionate about learning!
+- 👀 Interests: Developing games, 3D modeling, and creative design.
+- 🌱 Currently Learning:** Blender, Unreal Engine, and the basics of coding.
+- 📫 Contact Me: Reach out via [LinkedIn](#) or [Email](#).
+- 😄 Pronouns: He/Him
+- ⚡ Fun Fact: I’m a beginner in coding but passionate about learning!
 
 ## Projects
-- 🎮 **Game Development:** Working on a 2D platformer game.
-- 🎨 **3D Models:** Experimenting with Blender to create stunning assets.
-- 🌐 **Web Design:** Building my portfolio website.
+- 🎮 Game Development: Working on a 2D platformer game.
+- 🎨 3D Models: Experimenting with Blender to create stunning assets.
+- 🌐 Web Design: Building my portfolio website.
 
 ## Skills
 - Blender
