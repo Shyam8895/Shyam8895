@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @Shyam
-- 👀 I’m interested in ...Developing games
-- 🌱 I’m currently learning ...Blender and unreal engine
-- 📫 How to reach me ... Can't 
-- 😄 Pronouns: ...Boy
-- ⚡ Fun fact: ...i have yet to learn the  basics of coding😜 
+<img src="asset/profile photo.png" alt="Profile Photo" width="200">
 
-<!---
-Shyam8895/Shyam8895 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Shyam
+[Visit My Portfolio](https://shyam8895.github.io/portfolio/)
+
+## About Me
+- 👀 **Interests:** Developing games, 3D modeling, and creative design.
+- 🌱 **Currently Learning:** Blender, Unreal Engine, and the basics of coding.
+- 📫 **Contact Me:** Reach out via [LinkedIn](#) or [Email](#).
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun Fact:** I’m a beginner in coding but passionate about learning!
+
+## Projects
+- 🎮 **Game Development:** Working on a 2D platformer game.
+- 🎨 **3D Models:** Experimenting with Blender to create stunning assets.
+- 🌐 **Web Design:** Building my portfolio website.
+
+## Skills
+- Blender
+- Unreal Engine
+- HTML/CSS (Learning)
+
